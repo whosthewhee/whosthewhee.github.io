@@ -9,13 +9,13 @@ GitHub 블로그를 만들기 위해, 먼저 [GitHub 홈페이지](https://githu
 -   **[GitHub Jekyll Themes](https://github.com/topics/jekyll-theme)**
 GitHub에서 제공하는 Jekyll 테마 모음입니다. 오픈 소스 프로젝트들이 많아, 각 테마의 코드와 업데이트 상황을 쉽게 확인할 수 있습니다.
     
--   **[Jekyll Themes](http://jekyllthemes.org/)** 
+-   **[Jekyll Themes](https://jekyllthemes.org/)** 
 다양한 테마를 한눈에 볼 수 있고, 사용하기도 간편합니다. 테마를 별점 순으로 정렬할 수 있는 기능이 있어, 인기 있는 테마를 쉽게 찾아볼 수 있습니다.
     
 -   **[Jekyll Themes.io](https://jekyllthemes.io/free)** 
 무료 Jekyll 테마를 모아놓은 사이트입니다. 예쁘고 심플한 디자인의 테마가 많이 있어서 블로그 초보자에게도 적합해 보입니다.
     
--   **[Jekyll RC Themes](http://themes.jekyllrc.org/)**
+-   **[Jekyll RC Themes](https://themes.jekyllrc.org/)**
 최신 테마들을 만나볼 수 있는 곳입니다. 다양한 카테고리로 테마를 분류해 두어, 원하는 스타일의 테마를 쉽게 찾을 수 있습니다.
 
 저는 Jekyll **Chirpy** 테마를 선택했습니다.
